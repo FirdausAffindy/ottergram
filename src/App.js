@@ -9,6 +9,7 @@ import Maurice from './otters/otter3.jpg';
 import Lesley from './otters/otter4.jpg';
 import Barbara from './otters/otter5.jpg';
 
+/* Edit Comment */
 const ottersArray = [
   { image: Barry, name: 'Barry', id: 1 },
   { image: Robin, name: 'Robin', id: 2 },
